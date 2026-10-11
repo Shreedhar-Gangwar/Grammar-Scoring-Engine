@@ -1,0 +1,19 @@
+# Competition data and cached features are not shared
+data/
+cache/
+*.wav
+*.mp3
+*.npy
+*.npz
+*.zip
+train.csv
+test.csv
+sample_submission.csv
+submission*.csv
+
+# Local tooling
+CLAUDE.md
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
